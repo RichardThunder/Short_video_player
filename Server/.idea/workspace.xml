@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d0d813b-c5fd-4e0c-b8d4-97f6cfa18b7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6" />
+  <component name="ProjectId" id="1qYqXrDGLWlxLAgLYbkN9GmNVnQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PhpProject\StreamingVideo\src\json" />
+      <recent name="D:\PhpProject\StreamingVideo\src" />
+      <recent name="D:\PhpProject\StreamingVideo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index-666.php">
+    <configuration name="JsonReturn.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StreamingVideo/src/json/JsonReturn.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="MysqlInsert.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StreamingVideo/MysqlInsert.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index-666.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/StreamingVideo/index-666.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="JsonReturn.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/json/JsonReturn.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="MysqlInsert.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/MysqlInsert.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.JsonReturn.php" />
+      <item itemvalue="JavaScript Debug.MysqlInsert.php" />
+      <item itemvalue="JavaScript Debug.index-666.php" />
+      <item itemvalue="PHP Script.JsonReturn.php" />
+      <item itemvalue="PHP Script.MysqlInsert.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index-666.php" />
+        <item itemvalue="JavaScript Debug.MysqlInsert.php" />
+        <item itemvalue="PHP Script.MysqlInsert.php" />
+        <item itemvalue="JavaScript Debug.JsonReturn.php" />
+        <item itemvalue="PHP Script.JsonReturn.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d0d813b-c5fd-4e0c-b8d4-97f6cfa18b7a" name="Default Changelist" comment="" />
+      <created>1617266914228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617266914228</updated>
+      <workItem from="1617266915417" duration="2736000" />
+      <workItem from="1617270074759" duration="1397000" />
+      <workItem from="1617323390717" duration="6840000" />
+      <workItem from="1617691763995" duration="3441000" />
+      <workItem from="1617696014428" duration="1847000" />
+      <workItem from="1617700992297" duration="9000" />
+      <workItem from="1617701022857" duration="16361000" />
+      <workItem from="1617722866931" duration="912000" />
+      <workItem from="1617864487177" duration="7213000" />
+      <workItem from="1617928357396" duration="6692000" />
+      <workItem from="1617937598255" duration="2470000" />
+      <workItem from="1617942083981" duration="1031000" />
+      <workItem from="1617943473772" duration="52000" />
+      <workItem from="1617943712872" duration="1911000" />
+      <workItem from="1617962181419" duration="24000" />
+      <workItem from="1617963815232" duration="1514000" />
+      <workItem from="1618109724089" duration="1264000" />
+      <workItem from="1618121041904" duration="374000" />
+      <workItem from="1618121846962" duration="202000" />
+      <workItem from="1618998653461" duration="190000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
